@@ -1,3 +1,5 @@
+This is the small project on analyzing how much customers spend each year on different types of products
+
 Data source: https://archive.ics.uci.edu/dataset/292/wholesale+customers
 
 Actual Project Flow:
